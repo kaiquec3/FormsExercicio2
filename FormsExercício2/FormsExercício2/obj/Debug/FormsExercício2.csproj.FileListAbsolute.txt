@@ -1,0 +1,10 @@
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\bin\Debug\FormsExercício2.exe.config
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\bin\Debug\FormsExercício2.exe
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\bin\Debug\FormsExercício2.pdb
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\obj\Debug\FormsExercício2.csprojAssemblyReference.cache
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\obj\Debug\FormsExercício2.frmCalculadoraDeAreaDeQuadrado.resources
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\obj\Debug\FormsExercício2.Properties.Resources.resources
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\obj\Debug\FormsExercício2.csproj.GenerateResource.cache
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\obj\Debug\FormsExercício2.csproj.CoreCompileInputs.cache
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\obj\Debug\FormsExercício2.exe
+C:\Users\altas\source\repos\FormsExercício2\FormsExercício2\obj\Debug\FormsExercício2.pdb
